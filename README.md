@@ -1,11 +1,11 @@
-# ANN_-USING-_PYTORCH
-# 🧠 ANN Model (v1, v2, v3…) — Training, Hyperparameter Tuning & Fine-Tuning
+# ANN_USING_PYTORCH
+#  ANN Model (v1, v2, v3…) — Training, Hyperparameter Tuning & Fine-Tuning
 
 This repository contains multiple versions of an Artificial Neural Network (ANN) built using PyTorch. Each version (v1, v2, v3, ...) introduces improvements in architecture, hyperparameter settings, training stability, and overall performance. The project provides a clean pipeline for building models, running experiments, and fine-tuning updated versions.
 
 ---
 
-## 🚀 Project Description
+##  Project Description
 
 The project includes:
 
@@ -18,7 +18,7 @@ The project includes:
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Versioned ANN architecture (v1 baseline → v2 improved → v3 optimized)  
 - Custom `Dataset` class for efficient data management  
@@ -29,7 +29,7 @@ The project includes:
 
 ---
 
-## 📊 Tech Stack
+##  Tech Stack
 
 - Python  
 - PyTorch  
@@ -40,13 +40,13 @@ The project includes:
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective of this repository is to build multiple evolving versions of an ANN model and optimize each version through structured hyperparameter tuning and fine-tuning. The versioned structure makes it easy to track improvements and compare performance across iterations.
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `ann_v1` – Baseline ANN version  
 - `ann_v2` – Improved model with better architecture/hyperparameters  
@@ -58,7 +58,7 @@ The objective of this repository is to build multiple evolving versions of an AN
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - Add more ANN versions (v4, v5…)  
 - Introduce new activation functions & regularization  
