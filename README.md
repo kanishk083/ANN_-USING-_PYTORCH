@@ -35,7 +35,8 @@ The project includes:
 - PyTorch  
 - NumPy  
 - Pandas  
-- Matplotlib (optional for plots)  
+- Matplotlib (optional for plots)
+- Optuna
 - Jupyter Notebook / Google Colab  
 
 ---
